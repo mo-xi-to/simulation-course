@@ -1,0 +1,15 @@
+D:\Учёба\simulation-course\lab02\HeatLabWin\bin\Debug\net8.0-windows\HeatLabWin.exe
+D:\Учёба\simulation-course\lab02\HeatLabWin\bin\Debug\net8.0-windows\HeatLabWin.deps.json
+D:\Учёба\simulation-course\lab02\HeatLabWin\bin\Debug\net8.0-windows\HeatLabWin.runtimeconfig.json
+D:\Учёба\simulation-course\lab02\HeatLabWin\bin\Debug\net8.0-windows\HeatLabWin.dll
+D:\Учёба\simulation-course\lab02\HeatLabWin\bin\Debug\net8.0-windows\HeatLabWin.pdb
+D:\Учёба\simulation-course\lab02\HeatLabWin\obj\Debug\net8.0-windows\HeatLabWin.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учёба\simulation-course\lab02\HeatLabWin\obj\Debug\net8.0-windows\HeatLabWin.AssemblyInfoInputs.cache
+D:\Учёба\simulation-course\lab02\HeatLabWin\obj\Debug\net8.0-windows\HeatLabWin.AssemblyInfo.cs
+D:\Учёба\simulation-course\lab02\HeatLabWin\obj\Debug\net8.0-windows\HeatLabWin.csproj.CoreCompileInputs.cache
+D:\Учёба\simulation-course\lab02\HeatLabWin\obj\Debug\net8.0-windows\HeatLabWin.sourcelink.json
+D:\Учёба\simulation-course\lab02\HeatLabWin\obj\Debug\net8.0-windows\HeatLabWin.dll
+D:\Учёба\simulation-course\lab02\HeatLabWin\obj\Debug\net8.0-windows\refint\HeatLabWin.dll
+D:\Учёба\simulation-course\lab02\HeatLabWin\obj\Debug\net8.0-windows\HeatLabWin.pdb
+D:\Учёба\simulation-course\lab02\HeatLabWin\obj\Debug\net8.0-windows\HeatLabWin.genruntimeconfig.cache
+D:\Учёба\simulation-course\lab02\HeatLabWin\obj\Debug\net8.0-windows\ref\HeatLabWin.dll
