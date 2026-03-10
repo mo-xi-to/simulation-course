@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("HeatLabWin")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("ForestFire")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c3834e358b3ff5fa30705238dd2a2dde7f2a7da2")]
-[assembly: System.Reflection.AssemblyProductAttribute("HeatLabWin")]
-[assembly: System.Reflection.AssemblyTitleAttribute("HeatLabWin")]
+[assembly: System.Reflection.AssemblyProductAttribute("ForestFire")]
+[assembly: System.Reflection.AssemblyTitleAttribute("ForestFire")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 [assembly: System.Runtime.Versioning.TargetPlatformAttribute("Windows7.0")]
 [assembly: System.Runtime.Versioning.SupportedOSPlatformAttribute("Windows7.0")]

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FlightSim")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6d7b110e9e5cc5ce946733fde1479c92ee64baf6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c3834e358b3ff5fa30705238dd2a2dde7f2a7da2")]
 [assembly: System.Reflection.AssemblyProductAttribute("FlightSim")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FlightSim")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
