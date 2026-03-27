@@ -1,0 +1,15 @@
+D:\studies\simulation-course\lab04\BaseRandomApp\bin\Debug\net9.0-windows\BaseRandomApp.exe
+D:\studies\simulation-course\lab04\BaseRandomApp\bin\Debug\net9.0-windows\BaseRandomApp.deps.json
+D:\studies\simulation-course\lab04\BaseRandomApp\bin\Debug\net9.0-windows\BaseRandomApp.runtimeconfig.json
+D:\studies\simulation-course\lab04\BaseRandomApp\bin\Debug\net9.0-windows\BaseRandomApp.dll
+D:\studies\simulation-course\lab04\BaseRandomApp\bin\Debug\net9.0-windows\BaseRandomApp.pdb
+D:\studies\simulation-course\lab04\BaseRandomApp\obj\Debug\net9.0-windows\BaseRandomApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\studies\simulation-course\lab04\BaseRandomApp\obj\Debug\net9.0-windows\BaseRandomApp.AssemblyInfoInputs.cache
+D:\studies\simulation-course\lab04\BaseRandomApp\obj\Debug\net9.0-windows\BaseRandomApp.AssemblyInfo.cs
+D:\studies\simulation-course\lab04\BaseRandomApp\obj\Debug\net9.0-windows\BaseRandomApp.csproj.CoreCompileInputs.cache
+D:\studies\simulation-course\lab04\BaseRandomApp\obj\Debug\net9.0-windows\BaseRandomApp.sourcelink.json
+D:\studies\simulation-course\lab04\BaseRandomApp\obj\Debug\net9.0-windows\BaseRandomApp.dll
+D:\studies\simulation-course\lab04\BaseRandomApp\obj\Debug\net9.0-windows\refint\BaseRandomApp.dll
+D:\studies\simulation-course\lab04\BaseRandomApp\obj\Debug\net9.0-windows\BaseRandomApp.pdb
+D:\studies\simulation-course\lab04\BaseRandomApp\obj\Debug\net9.0-windows\BaseRandomApp.genruntimeconfig.cache
+D:\studies\simulation-course\lab04\BaseRandomApp\obj\Debug\net9.0-windows\ref\BaseRandomApp.dll
