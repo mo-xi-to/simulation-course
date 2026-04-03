@@ -1,0 +1,15 @@
+D:\studies\simulation-course\lab05\StochasticEventModeling\bin\Debug\net9.0-windows\StochasticEventModeling.exe
+D:\studies\simulation-course\lab05\StochasticEventModeling\bin\Debug\net9.0-windows\StochasticEventModeling.deps.json
+D:\studies\simulation-course\lab05\StochasticEventModeling\bin\Debug\net9.0-windows\StochasticEventModeling.runtimeconfig.json
+D:\studies\simulation-course\lab05\StochasticEventModeling\bin\Debug\net9.0-windows\StochasticEventModeling.dll
+D:\studies\simulation-course\lab05\StochasticEventModeling\bin\Debug\net9.0-windows\StochasticEventModeling.pdb
+D:\studies\simulation-course\lab05\StochasticEventModeling\obj\Debug\net9.0-windows\StochasticEventModeling.GeneratedMSBuildEditorConfig.editorconfig
+D:\studies\simulation-course\lab05\StochasticEventModeling\obj\Debug\net9.0-windows\StochasticEventModeling.AssemblyInfoInputs.cache
+D:\studies\simulation-course\lab05\StochasticEventModeling\obj\Debug\net9.0-windows\StochasticEventModeling.AssemblyInfo.cs
+D:\studies\simulation-course\lab05\StochasticEventModeling\obj\Debug\net9.0-windows\StochasticEventModeling.csproj.CoreCompileInputs.cache
+D:\studies\simulation-course\lab05\StochasticEventModeling\obj\Debug\net9.0-windows\StochasticEventModeling.sourcelink.json
+D:\studies\simulation-course\lab05\StochasticEventModeling\obj\Debug\net9.0-windows\StochasticEventModeling.dll
+D:\studies\simulation-course\lab05\StochasticEventModeling\obj\Debug\net9.0-windows\refint\StochasticEventModeling.dll
+D:\studies\simulation-course\lab05\StochasticEventModeling\obj\Debug\net9.0-windows\StochasticEventModeling.pdb
+D:\studies\simulation-course\lab05\StochasticEventModeling\obj\Debug\net9.0-windows\StochasticEventModeling.genruntimeconfig.cache
+D:\studies\simulation-course\lab05\StochasticEventModeling\obj\Debug\net9.0-windows\ref\StochasticEventModeling.dll
