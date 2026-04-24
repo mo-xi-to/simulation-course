@@ -1,0 +1,5 @@
+D:\studies\simulation-course\lab06\Lab6Project\obj\Debug\net9.0-windows\Lab6Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\studies\simulation-course\lab06\Lab6Project\obj\Debug\net9.0-windows\Lab6Project.AssemblyInfoInputs.cache
+D:\studies\simulation-course\lab06\Lab6Project\obj\Debug\net9.0-windows\Lab6Project.AssemblyInfo.cs
+D:\studies\simulation-course\lab06\Lab6Project\obj\Debug\net9.0-windows\Lab6Project.csproj.CoreCompileInputs.cache
+D:\studies\simulation-course\lab06\Lab6Project\obj\Debug\net9.0-windows\Lab6Project.sourcelink.json
